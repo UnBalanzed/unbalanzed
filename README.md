@@ -1,39 +1,35 @@
-<h2 align="center">Hi there! I'm Zed :wave:</h2>
-<p align="center">
-  <a href="https://discord.com/users/501772305580556289" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/introevi" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCvPvRqfmIFdJj9HzWbRCJug?view_as=subscriber" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://instagram.com/ardatq" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/UnBalanzed" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unbalanzed&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-</p>
-<h3>Languages</h3>
+<h2 align="left">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+   <p align="left">Hi, I’m <a href="https://zeds.cf/">Bratz (UnBalanzed)</a></p>
+<h3>My personal social accounts:</h3>
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+   <a href="https://discord.com/users/501772305580556289" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://open.spotify.com/user/2i4tn2mae6luob488efujynro?si=YrmgMxEVQbqxY2iKf5Wxxw" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+   <a href="https://www.youtube.com/channel/UCvPvRqfmIFdJj9HzWbRCJug" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="https://instagram.com/bratz.808" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://github.com/UnBalanzed" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
-<h3>Technologies & Systems</h3>
+<h3>Personal stuffs and bla bla bla..</h3>
+<ul>
+  <li>💻 Life, amazing. Right?</li>
+  <li>📫 You can find me from <a href="https://discord.com/users/501772305580556289" target"blank_">Discord</a> or <a href="https://instagram.com/bratz.808" target="_blank">Instagram</a>.</li>
+</ul>
+<h3>Languages and Tools:</h3>
+<p style="float:right">
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+   <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"></code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+   <code><img height="20" src="https://camo.githubusercontent.com/c10bbec541caa795eee7a0ada0415e2fe7c04b4f89aaa8ebc76e1d1ac2ede1d6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6f6e676f64622e706e67"></code>
+   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></code>
+   <code><img height="20" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"></code>
+   <code><img height="20" src="https://cdn.discordapp.com/attachments/805060398716813312/811565843883622400/nuxt-icon_1.png"></code>
+</p>
+<h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Service" width="40" height="40"/> 
-</p>
-<br>
-<h3>Github Stats</h3>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unbalanzed&layout=compact&theme=dark" alt="unbalanzed" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbecue&theme=dark&count_private=true&show_icons=true&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=barbecue&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
