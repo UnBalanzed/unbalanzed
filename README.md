@@ -10,7 +10,7 @@
 </p>
 <h3>Personal stuffs and bla bla bla..</h3>
 <ul>
-  <li>💻 Life, amazing. Right?</li>
+  <li>💻 Database engineering & Bot Dev.</li>
   <li>📫 You can find me from <a href="https://discord.com/users/501772305580556289" target"blank_">Discord</a> or <a href="https://instagram.com/bratz.808" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>Languages and Tools:</h3>
